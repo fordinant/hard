@@ -1,0 +1,59 @@
+<html>
+
+<head>
+<style>
+.box.left {
+    width: calc(25% - 24px);
+	background-color: grey;
+	border: 2px solid #f1f1f1;
+	padding: 10px;
+	line-height: 1.5em;
+}
+.container {
+    background-color: saddlebrown;
+    padding: 10px;
+}
+h1 {
+    color: green;
+}
+.box.left p {    
+}
+.left{
+float: left;
+}
+.clear{
+clear:both;
+}
+</style>
+</head>
+<body>
+<div class ="container">
+	 <div class="box left">
+	 <h1>First</h1>
+	 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+	 
+	 </div>
+	 <div class ="box left">
+      <h1>Second</h1>
+	 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+	 
+	 </div>
+	 <div class ="box left">
+      <h1>Third</h1>
+	 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+	 
+	 </div>
+	 <div class ="box left">
+     <h1>Fourth</h1>
+	 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+	 
+	 </div>
+	 <div class ="clear">
+	 
+	 </div>
+ </div>
+
+</body>
+
+
+</html>
