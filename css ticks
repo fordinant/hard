@@ -23,3 +23,4 @@ padding:0px;
     box-sizing: border-box;
     }
 
+absolute---means relative to browser window or parent div  and relative means relative to present div.
